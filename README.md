@@ -43,9 +43,11 @@ This project aims to provide a simple, accessible, and lightweight inventory man
 ---
 
 ## 🎥 Something Special for You  
-I’ve prepared a short video presentation for this project. Feel free to sneak a peek if you’re curious:
+I've prepared a short presentation video for this project (in **Bahasa Indonesia** 🇮🇩).  
+Feel free to take a peek if you're curious:
 
 👉 [Watch the video](https://drive.google.com/drive/folders/17WrO29Ttcr1VPaOjJcM4gzXxhzra3bGr?usp=drive_link)
+
 
 ---
 
