@@ -15,7 +15,7 @@ This project aims to provide a simple, accessible, and lightweight inventory man
 - ✅ Prevent stock-outs with low-stock alerts  
 - ✅ Tracks movement history for audits and logistics  
 - ✅ Supports faster, more accurate decisions  
-- ✅ Lightweight & offline-friendly — no internet required  
+- ✅ Lightweight & no internet required  
 
 ---
 
